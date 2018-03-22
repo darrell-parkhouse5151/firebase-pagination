@@ -1,0 +1,19 @@
+{
+  "name": "firebase-pagination",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "darrell parkhouse",
+  "license": "MIT\t",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase-admin": "^5.11.0"
+  },
+  "devDependencies": {
+    "firebase": "^4.12.0",
+    "jest": "^22.4.3",
+    "jest-cli": "^22.4.3",
+    "polymer-cli": "^1.6.0",
+    "tape": "^4.9.0"
+  }
+}
